@@ -2,6 +2,9 @@
 
 A Simple Clinic Management System implemented in C for Managing Patient Records, Doctor Appointments, and Admin/User access.
 
+![Photo](https://github.com/user-attachments/assets/e7b04103-105e-4fac-adda-a8bbbbf196cd)
+
+
 ## Features
 1. **Admin Mode**:
    - Add new patient records with unique IDs.
