@@ -41,7 +41,7 @@ The system is divided into modules:
 - **Concepts**:
   - Authentication workflow
   - Dynamic memory management
-  - CRUD operations
+  - CRUD (Create, Read, Update, and Delete) operations
   - Time slot management
  
   
